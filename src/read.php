@@ -40,7 +40,7 @@ $result = $conn->query($sql);
 
         <th>Password</th>
 
-        <th>Action</th>
+        <th>ACTION</th>
 
     </tr>
 
